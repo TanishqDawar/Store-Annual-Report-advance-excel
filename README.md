@@ -1,4 +1,5 @@
-#objective!
+#objective
+
 Vrinda store wants to create an annual sales report for 2022. so that Vrinda can understand the customers and grow more sales
 
 #Questions That help to analyise the data
